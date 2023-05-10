@@ -1,6 +1,6 @@
 # set is the collection of unique elements
 
-# defined using curly braces
+# defined using curly braces similar to dictionary data structures
 
 s = set()
 print(s)
