@@ -39,6 +39,3 @@ print(1 in s3)
 
 for i in s:
     print(i)
-
-# test
-#test 2
