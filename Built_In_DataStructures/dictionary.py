@@ -30,7 +30,6 @@ print(d1)
 
 d4 = {"1": {1:2}}
 print(d4)
+print(d4)
 
 
-
-# test
